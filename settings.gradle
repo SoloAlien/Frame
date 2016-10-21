@@ -1,1 +1,1 @@
-include ':app', ':appframe'
+include ':app', ':appframe', ':alipay', ':baidumap'
